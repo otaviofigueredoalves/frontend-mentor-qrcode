@@ -36,6 +36,7 @@ body {
 .box {
     display: flex;
     background-color: var(--white);
+    box-shadow: 0px 10px 20px rgba(0,0,0,0.1);
     padding: 16px;
     border-radius: 20px;
     width: 100%;
